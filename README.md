@@ -1,3 +1,9 @@
+> **本仓库说明：这是 MMDetection（OpenMMLab 目标检测工具箱）的个人 fork。** / *A personal fork of MMDetection, for reading and study only.*
+>
+> 用途：仅用于本地读码与学习，未做功能修改。仓库是上游 `v3.1.0`（`f78af77 Release v3.1.0`）的原样快照，没有自定义 config、新脚本、新提交，也没有 `work_dirs/` 之类的实验残留。
+>
+> 上游：https://github.com/open-mmlab/mmdetection
+
 <div align="center">
   <img src="resources/mmdet-logo.png" width="600"/>
   <div>&nbsp;</div>
